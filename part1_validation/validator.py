@@ -157,10 +157,8 @@ class EventValidator:
         except (ValueError, TypeError):
             return False
 
-
-# ======================================================================
 # Ejecución de demostración
-# ======================================================================
+
 
 if __name__ == "__main__":
     data_path = Path(__file__).resolve().parent.parent / "data" / "sample_events.json"
