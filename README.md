@@ -41,8 +41,7 @@ python-tinybird-challenge/
 ### Part 1 — Validación de Eventos
 
 ```bash
-cd ecommerce-pipeline
-python -m part1_validation.validator
+python part1_validation/validator.py  
 ```
 
 **Output esperado:**
@@ -70,7 +69,7 @@ python -m part1_validation.validator
 ### Part 2 — Métricas de Negocio
 
 ```bash
-python -m part2_metrics.metrics
+python part2_metrics/metrics.py
 ```
 
 **Output esperado:**
@@ -95,7 +94,7 @@ python -m part2_metrics.metrics
 ### Part 3 — API de Métricas
 
 ```bash
-python -m part3_api.api
+python part3_api/api.py
 ```
 
 Esto muestra las métricas con diferentes filtros y opcionalmente inicia el
