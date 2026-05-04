@@ -1,0 +1,10 @@
+# No se requieren dependencias externas.
+# Todo el proyecto utiliza la biblioteca estándar de Python 3.10+.
+#
+# Módulos de stdlib utilizados:
+#   json          — Serialización/deserialización de eventos
+#   datetime      — Parseo y validación de timestamps ISO 8601
+#   collections   — Counter para frecuencias de productos
+#   http.server   — Servidor HTTP básico para la API
+#   urllib.parse   — Parseo de query parameters
+#   pathlib       — Manejo de rutas de archivos

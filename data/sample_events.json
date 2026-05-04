@@ -1,0 +1,218 @@
+[
+  {
+    "event_id": "evt_001",
+    "user_id": "u_100",
+    "event_type": "product_view",
+    "product_id": "p_10",
+    "timestamp": "2026-04-28T08:00:00Z",
+    "price": 0,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_002",
+    "user_id": "u_100",
+    "event_type": "add_to_cart",
+    "product_id": "p_10",
+    "timestamp": "2026-04-28T08:05:00Z",
+    "price": 0,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_003",
+    "user_id": "u_100",
+    "event_type": "purchase",
+    "product_id": "p_10",
+    "timestamp": "2026-04-28T08:10:00Z",
+    "price": 29.99,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_004",
+    "user_id": "u_101",
+    "event_type": "product_view",
+    "product_id": "p_20",
+    "timestamp": "2026-04-28T14:30:00Z",
+    "price": 0,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_005",
+    "user_id": "u_101",
+    "event_type": "product_view",
+    "product_id": "p_10",
+    "timestamp": "2026-04-29T09:00:00Z",
+    "price": 0,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_006",
+    "user_id": "u_101",
+    "event_type": "add_to_cart",
+    "product_id": "p_10",
+    "timestamp": "2026-04-29T09:05:00Z",
+    "price": 0,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_007",
+    "user_id": "u_101",
+    "event_type": "purchase",
+    "product_id": "p_10",
+    "timestamp": "2026-04-29T09:10:00Z",
+    "price": 29.99,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_008",
+    "user_id": "u_102",
+    "event_type": "product_view",
+    "product_id": "p_30",
+    "timestamp": "2026-04-30T11:00:00Z",
+    "price": 0,
+    "country": "US"
+  },
+  {
+    "event_id": "evt_009",
+    "user_id": "u_102",
+    "event_type": "product_view",
+    "product_id": "p_30",
+    "timestamp": "2026-04-30T11:30:00Z",
+    "price": 0,
+    "country": "US"
+  },
+  {
+    "event_id": "evt_010",
+    "user_id": "u_102",
+    "event_type": "add_to_cart",
+    "product_id": "p_30",
+    "timestamp": "2026-04-30T11:35:00Z",
+    "price": 0,
+    "country": "US"
+  },
+  {
+    "event_id": "evt_011",
+    "user_id": "u_102",
+    "event_type": "purchase",
+    "product_id": "p_30",
+    "timestamp": "2026-04-30T11:40:00Z",
+    "price": 149.50,
+    "country": "US"
+  },
+  {
+    "event_id": "evt_012",
+    "user_id": "u_103",
+    "event_type": "product_view",
+    "product_id": "p_10",
+    "timestamp": "2026-05-01T07:00:00Z",
+    "price": 0,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_013",
+    "user_id": "u_103",
+    "event_type": "product_view",
+    "product_id": "p_20",
+    "timestamp": "2026-05-01T07:15:00Z",
+    "price": 0,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_014",
+    "user_id": "u_104",
+    "event_type": "product_view",
+    "product_id": "p_40",
+    "timestamp": "2026-05-02T16:00:00Z",
+    "price": 0,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_015",
+    "user_id": "u_104",
+    "event_type": "add_to_cart",
+    "product_id": "p_40",
+    "timestamp": "2026-05-02T16:10:00Z",
+    "price": 0,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_016",
+    "user_id": "u_105",
+    "event_type": "product_view",
+    "product_id": "p_50",
+    "timestamp": "2026-05-03T10:00:00Z",
+    "price": 0,
+    "country": "US"
+  },
+  {
+    "event_id": "evt_003",
+    "user_id": "u_100",
+    "event_type": "purchase",
+    "product_id": "p_10",
+    "timestamp": "2026-04-28T08:10:00Z",
+    "price": 29.99,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_007",
+    "user_id": "u_101",
+    "event_type": "purchase",
+    "product_id": "p_10",
+    "timestamp": "2026-04-29T09:10:00Z",
+    "price": 29.99,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_017",
+    "user_id": "u_106",
+    "event_type": "purchase",
+    "product_id": "p_20",
+    "timestamp": "2026-05-03T12:00:00Z",
+    "price": 0,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_018",
+    "user_id": "u_107",
+    "event_type": "invalid_event",
+    "product_id": "p_10",
+    "timestamp": "2026-05-03T13:00:00Z",
+    "price": 0,
+    "country": "US"
+  },
+  {
+    "event_id": "",
+    "user_id": "u_108",
+    "event_type": "product_view",
+    "product_id": "p_10",
+    "timestamp": "2026-05-03T14:00:00Z",
+    "price": 0,
+    "country": "MX"
+  },
+  {
+    "event_id": "evt_020",
+    "user_id": "",
+    "event_type": "product_view",
+    "product_id": "p_10",
+    "timestamp": "2026-05-03T14:30:00Z",
+    "price": 0,
+    "country": "CR"
+  },
+  {
+    "event_id": "evt_021",
+    "user_id": "u_109",
+    "event_type": "add_to_cart",
+    "product_id": "p_10",
+    "timestamp": "not-a-date",
+    "price": 0,
+    "country": "US"
+  },
+  {
+    "event_id": "evt_022",
+    "user_id": "u_110",
+    "event_type": "product_view",
+    "product_id": "p_10",
+    "timestamp": "2026-05-04T09:00:00Z",
+    "price": 0,
+    "country": "CR"
+  }
+]
